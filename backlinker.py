@@ -8,7 +8,7 @@ try:
 | | | | '__| |  _ < / _` |/ __| |/ / | | '_ \| |/ / _ \ '__|
 | |_| | |  | | |_) | (_| | (__|   <| | | | | |   <  __/ |   
  \__,_|_|  |_|____/ \__,_|\___|_|\_\_|_|_| |_|_|\_\___|_|   
-                                              H4cklinker - wmroot.com     
+                                              H4-cklinker - wmdark.com     
   """)
   if (sys.version_info.major == 3):
     site = input(" => Backlink Kasilcak Site\t: ")
